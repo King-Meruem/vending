@@ -1,0 +1,6 @@
+1--Program start
+2--Update with json file
+3--Snickers was bought with $4.0. The change will be $2.65. There are 9 Snickers remaining.
+4--Vending Machine Displayed
+5--Snickers was bought with $4.0. The change will be $2.65. There are 8 Snickers remaining.
+6--Program ended
